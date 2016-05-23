@@ -1,10 +1,10 @@
 {
-  "name": "bitcoinjs-lib",
+  "name": "rubiesjs-lib",
   "version": "2.2.0",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
   "keywords": [
-    "bitcoin",
+    "rubies",
     "browser",
     "client",
     "library"
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoinjs-lib.git"
+    "url": "https://github.com/uniibu/rubiesjs-lib.git"
   },
   "files": [
     "src"
